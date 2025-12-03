@@ -1,0 +1,13 @@
+{
+  "name": "speaking-transcription-api",
+  "version": "1.0.0",
+  "description": "Backend API for speech transcription",
+  "main": "api/transcribe.js",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "form-data": "^4.0.0"
+  },
+  "engines": {
+    "node": ">=14.x"
+  }
+}
